@@ -1,3 +1,5 @@
 node_modules
+miniprogram_npm
+
 yarn.lock
-miniprogram/miniprogram_npm
+yarn-error.lock
